@@ -77,3 +77,4 @@ function one(){
 one();
 
 const addTwo=(num1,num2)=>(num1+num2);//if we declare inside brackets no need of using return keyword
+
